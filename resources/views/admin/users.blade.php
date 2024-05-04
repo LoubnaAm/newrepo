@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container-fluid">
-
+        <!--just for testing-->
         <!-- Page Heading -->
         <div class="card-header d-flex align-items-center border-0">
             <h3 class="w-50 float-left card-title m-0">New Users</h3>
